@@ -24,7 +24,7 @@ Key bindings:
 | C-x ! | `<!doctype html>` | ragtag/insert-doctype-tag |
 | C-x @ | `<link rel="stylesheet" href="/stylesheets/^.css"` /> | ragtag/insert-link-tag |
 | C-x $ | `<script type="text/javascript" src="/javascripts/^.js" />` | ragtag/insert-js-mark |
-| C-u C-x @ | `<%= stylesheet_link_tag '^' %>` /> | ragtag/insert-link-tag |
+| C-u C-x @ | `<%= stylesheet_link_tag '^' %>` | ragtag/insert-link-tag |
 | C-u C-x $ | `<%= javascript_include_tag '^' %>` | ragtag/insert-js-mark |
 | C-x # | `<meta charset="utf-8" />` | ragtag/insert-meta-mark |
 
